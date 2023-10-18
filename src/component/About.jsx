@@ -102,7 +102,7 @@ export default function About() {
                 data-aos-delay="900"
                 as={Link}
                 textDecoration={"none"}
-                href={"mailto:lynxeveloperofficial@gmail.com"}
+                href={"mailto:arisrahmadaniofficial@gmail.com"}
                 px={"1.8rem"}
                 fontSize={"sm"}
                 rounded={"full"}
@@ -135,7 +135,7 @@ const INFO = [
   },
   {
     icon: MdMail,
-    label: "lynxdeveloperofficial@gmail.com",
+    label: "arisrahmadaniofficial@gmail.com",
     delay: "700",
   },
 ];
