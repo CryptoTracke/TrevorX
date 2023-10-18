@@ -29,7 +29,7 @@ export default function Footer() {
   return (
     <Box bg={"gray.50"} color={"gray.700"} id={"footer"}>
       <Container as={Stack} maxW={"6xl"} py={4} direction={{ base: "column", md: "row" }} spacing={4} justify={{ base: "center", md: "space-between" }} align={{ base: "center", md: "center" }}>
-        <Text>© {new Date().getFullYear()} ArispecintaAgama. All rights reserved</Text>
+        <Text>© {new Date().getFullYear()} Aris Rahmadani. All rights reserved</Text>
         <Stack direction={"row"} spacing={6}>
           <SocialButton label={"Github"} href={"https://github.com/TrevorX"}>
             <FaGithub />
