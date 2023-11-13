@@ -33,15 +33,15 @@ export default function Hero() {
               </Text>{" "}
               <br />
               <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"800"}>
-                Co Leader <span style={{ color: "tomato" }}>Mr.Venom</span>
+                 <span style={{ color: "tomato" }}>Mr.Venom</span>
               </Text>
               <br />
               <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"800"}>
-                <\> <span style={{ color: "tomato" }}>./Knxploit</span>  
+                 <span style={{ color: "tomato" }}>./Knxploit</span>  
               </Text>
               <br />
               <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"800"}>
-                <\> <span style={{ color: "tomato" }}>Trevor-X 403</span>  
+                 <span style={{ color: "tomato" }}>Trevor-X 403</span>  
               </Text>
             </Heading>
             <Text fontSize={"xl"} color={"gray.700"} data-aos="zoom-in" data-aos-delay={"1000"}>
