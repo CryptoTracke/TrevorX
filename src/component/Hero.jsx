@@ -24,7 +24,7 @@ export default function Hero() {
         <Flex flex={2} align={"center"} justify={"center"} alignItems={"center"}>
           <Stack spacing={4} w={"full"} maxW={{ base: "xl", lg: "full" }} px={{ base: "5" }}>
             <Heading fontSize={{ base: "3xl", sm: "4xl", md: "5xl" }}>
-              <Text as={"span"} position={"relative"} data-aos="fade-down" data-aos-delay={"890"}>
+              <Text color={"blue.200"} as={"span"} position={"relative"} data-aos="fade-down" data-aos-delay={"890"}>
                 Ketapang Greyhat Team 
               </Text>
               <br />
