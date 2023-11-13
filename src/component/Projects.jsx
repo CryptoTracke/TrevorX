@@ -107,7 +107,7 @@ const PROJECTS = [
     title: "Personal Blog API",
     desc: "In this project, i've develop a blog API using Express.js and utilize MySQL as the database. By combining these technologies, i've created a powerful blog with the ability to store and manage content through a database. The blog API i've built has utilize Express.js, a robust Node.js framework for building web applications. With Express.js, i can easily create endpoints for retrieving, storing, and deleting blog content. The framework provides an efficient structure and extensive support for building reliable RESTful APIs.",
     techStack: "Express, MySQL",
-    link: "https://raihanmd-blog-api.vercel.app",
+    link: "https://clanakatsukiteam.blogspot.com/",
   },
   {
     key: 3,
