@@ -24,24 +24,24 @@ export default function Hero() {
         <Flex flex={2} align={"center"} justify={"center"} alignItems={"center"}>
           <Stack spacing={4} w={"full"} maxW={{ base: "xl", lg: "full" }} px={{ base: "5" }}>
             <Heading fontSize={{ base: "3xl", sm: "4xl", md: "5xl" }}>
-              <Text as={"span"} position={"relative"} data-aos="fade-down" data-aos-delay={"600"}>
-                Ketapang Cyber team 👋
+              <Text as={"span"} position={"relative"} data-aos="fade-down" data-aos-delay={"890"}>
+                Ketapang Greyhat Team 
               </Text>
               <br />
-              <Text color={"blue.400"} as={"span"} data-aos="fade-down" data-aos-delay={"200"}>
+              <Text color={"black.200"} as={"span"} data-aos="fade-down" data-aos-delay={"200"}>
                 I'm <span style={{ color: "tomato" }}>Mr.</span> VxDx1-xploit 
               </Text>{" "}
               <br />
-              <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"800"}>
+              <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"200"}>
                  <span style={{ color: "black" }}>Mr.Venom</span>
               </Text>
               <br />
-              <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"800"}>
-                 <span style={{ color: "tomato" }}>./Knxploit</span>  
+              <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"200"}>
+                 <span style={{ color: "black" }}>./Knxploit</span>  
               </Text>
               <br />
-              <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"800"}>
-                 <span style={{ color: "tomato" }}>Trevor-X 403</span>  
+              <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"200"}>
+                 <span style={{ color: "black" }}>Trevor-X 403</span>  
               </Text>
             </Heading>
             <Text fontSize={"xl"} color={"gray.700"} data-aos="zoom-in" data-aos-delay={"1000"}>
