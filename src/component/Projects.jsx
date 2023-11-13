@@ -92,12 +92,12 @@ export default Projects;
 const PROJECTS = [
   {
     key: 1,
-    image: PortfolioQuran,
+    image: portofolio quran,
     alt: "Portfolio quran image",
     title: "Quran Verse Online",
     desc: "This is my web application that utilizes a public Quran API to provide easy and fast access to the holy verses of the Quran. In this project, I have designed a minimalist and elegant interface, with a focus on a simple yet powerful user experience.\nFurthermore, this project adopts a responsive design approach, allowing for optimal viewing on various devices, ranging from desktop computers to mobile devices. Thus, users can easily access this application anywhere and anytime, both through web-based and mobile devices.",
     techStack: "PHP, CodeIgniter4, Tailwind",
-    link: "https://expocn.000webhostapp.com/quran",
+    link: "https://blogfromlammertomastah.blogspot.com/",
     delay: 200,
   },
   {
@@ -116,7 +116,7 @@ const PROJECTS = [
     title: "Personal Web Blog",
     desc: "In this project, i've created personal blog that integrates a custom-built API. By utilizing React and CSS Vanilla, i've designed an engaging user interface (UI) that enhances the overall user experience. The personal blog i am creating will serve as a digital space for you to share your thoughts, experiences, and creative endeavors with your readers. By incorporating my own custom API, i can ensure a seamless flow of dynamic and relevant content, keeping your blog fresh and engaging.",
     techStack: "React, Vanilla CSS, React Hooks",
-    link: "https://raihanmd-blog.vercel.app",
+    link: "https://ketapang-grey-hat-team.blogspot.com/",
   },
   {
     key: 4,
@@ -125,6 +125,6 @@ const PROJECTS = [
     title: "Personal Web Profile",
     desc: "Built with React JS technology, this project offers a seamless and responsive user experience. Every interaction with the page provides fast and smooth feedback, ensuring intuitive navigation and a delightful user experience. The choice of using Chakra UI as the styled component provides flexibility in designing the interface with ease. With this framework, you can quickly create beautiful and consistent components, simplifying development and speeding up the workflow.",
     techStack: "React, Chakra UI, React Hooks",
-    link: "https://raihanmd.vercel.app",
+    link: "https://trevor-x.vercel.app/",
   },
 ];
