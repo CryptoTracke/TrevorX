@@ -28,19 +28,19 @@ export default function Hero() {
                 Ketapang Greyhat Team 
               </Text>
               <br />
-              <Text color={"black.200"} as={"span"} data-aos="fade-down" data-aos-delay={"200"}>
-                I'm <span style={{ color: "tomato" }}>Mr.</span> VxDx1-xploit 
+              <Text color={"black.200"} as={"span"} data-aos="fade-down" data-aos-delay={"100"}>
+                 <span style={{ color: "black" }}>Mr.</span> VxDx1-xploit 
               </Text>{" "}
               <br />
-              <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"200"}>
+              <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"100"}>
                  <span style={{ color: "black" }}>Mr.Venom</span>
               </Text>
               <br />
-              <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"200"}>
+              <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"100"}>
                  <span style={{ color: "black" }}>./Knxploit</span>  
               </Text>
               <br />
-              <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"200"}>
+              <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"100"}>
                  <span style={{ color: "black" }}>Trevor-X 403</span>  
               </Text>
             </Heading>
