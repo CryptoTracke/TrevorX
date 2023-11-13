@@ -1,5 +1,5 @@
 import { Box, chakra, Container, Stack, Text, VisuallyHidden } from "@chakra-ui/react";
-import { FaGithub, FaInstagram, FaYoutube } from "react-icons/fa";
+import { FaTelegram, FaInstagram, FaYoutube } from "react-icons/fa";
 
 const SocialButton = ({ children, label, href }) => {
   return (
@@ -32,7 +32,7 @@ export default function Footer() {
         <Text>© {new Date().getFullYear()} Trevor-X 403. All rights reserved</Text>
         <Stack direction={"row"} spacing={6}>
           <SocialButton label={"Telegram"} href={"https://t.me/KetapangGreyHatTeam2"}>
-            <FaGithub />
+            <FaTelegram />
           </SocialButton>
           <SocialButton label={"YouTube"} href={"https://www.youtube.com/channel/"}>
             <FaYoutube />
