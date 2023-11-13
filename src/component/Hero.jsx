@@ -29,21 +29,29 @@ export default function Hero() {
               </Text>
               <br />
               <Text color={"blue.400"} as={"span"} data-aos="fade-down" data-aos-delay={"800"}>
-                I'm <span style={{ color: "tomato" }}>Trevor</span> -X403 
+                I'm <span style={{ color: "tomato" }}>Mr.</span> VxDx1-xploit 
               </Text>{" "}
               <br />
-              <Text color={"blue.400"} as={"span"} data-aos="fade-down" data-aos-delay={"800"}>
-                I'm <span style={{ color: "tomato" }}>Mr.</span> Venom 
+              <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"800"}>
+                <\> <span style={{ color: "tomato" }}>Mr.Venom</span>
+              </Text>
+              <br />
+              <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"800"}>
+                <\> <span style={{ color: "tomato" }}>./Knxploit</span>  
+              </Text>
+              <br />
+              <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"800"}>
+                <\> <span style={{ color: "tomato" }}>Trevor-X 403</span>  
               </Text>
             </Heading>
             <Text fontSize={"xl"} color={"gray.700"} data-aos="zoom-in" data-aos-delay={"1000"}>
               <TypedJS
                 loop={true}
                 string={[
-                  'I\'m <span style="color: black">Moderator</span> Developer.',
-                  'I\'m <span style="color: red">Backend</span> Developer.',
-                  'I\'m <span style="color: green">Fullstack</span> Developer.',
-                  'I\'m <span style="color: gray">Unity</span> Engineer.',
+                  'I\'m <span style="color: black">LEADER</span> Developer.',
+                  'I\'m <span style="color: red">CO LEADER</span> Pemrograman.',
+                  'I\'m <span style="color: green">CEO</span> Fullstack.',
+                  'I\'m <span style="color: gray">MODERATOR</span> Engineer.',
                 ]}
               />
             </Text>
@@ -109,7 +117,7 @@ export default function Hero() {
 const SOCIAL_MEDIA = [
   {
     icon: BsTelegram,
-    href: "https://www.com",
+    href: "https://t.me/KetapangGreyHatTeam2",
     delay: "1300",
   },
   {
@@ -119,12 +127,12 @@ const SOCIAL_MEDIA = [
   },
   {
     icon: BsTiktok,
-    href: "https://www.tiktok.com/@tn.forbidden404",
+    href: "https://www.tiktok.com/@ketapanggreyhatteam",
     delay: "1500",
   },
   {
     icon: BsYoutube,
-    href: "https://www.youtube.com/channel/",
+    href: "https://www.youtube.com/@mrvenom13377/channel/",
     delay: "1600",
   },
 ];
