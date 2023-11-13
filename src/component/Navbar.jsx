@@ -23,7 +23,7 @@ export default function Navbar() {
         <Stack as={Link} href="/" p={2} spacing={1} direction={"row"} data-aos="fade-down" data-aos-delay={"100"}>
           <Icon className="react-logo" as={FaReact} fontSize={"3xl"} color={"blue.400"} />
           <Text className="logo" fontSize={"xl"} textAlign={useBreakpointValue({ base: "center", md: "left" })} fontFamily={"heading"} color={COLOR.SECOND_COLOR}>
-            Aris Developer 
+            Ketapang Cyber Team 
           </Text>
         </Stack>
         <Flex flex={{ base: 1 }} justify={{ base: "center", md: "end" }}>
