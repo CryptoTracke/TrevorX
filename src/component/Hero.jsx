@@ -1,6 +1,6 @@
 import { Button, Flex, Heading, Stack, Text, Container, Icon, Box, Link, Image } from "@chakra-ui/react";
 
-import { BsGithub, BsInstagram, BsTiktok, BsYoutube } from "react-icons/bs";
+import { BsTelegram, BsInstagram, BsTiktok, BsYoutube } from "react-icons/bs";
 
 import ParticleCustom from "./ParticleCustom";
 import Navbar from "./Navbar";
@@ -29,14 +29,14 @@ export default function Hero() {
               </Text>
               <br />
               <Text color={"blue.400"} as={"span"} data-aos="fade-down" data-aos-delay={"800"}>
-                I'm <span style={{ color: "tomato" }}>Aris</span> Rahmadani.
+                I'm <span style={{ color: "tomato" }}>Trevor</span> -X403
               </Text>{" "}
             </Heading>
             <Text fontSize={"xl"} color={"gray.700"} data-aos="zoom-in" data-aos-delay={"1000"}>
               <TypedJS
                 loop={true}
                 string={[
-                  'I\'m <span style="color: black">Frontend</span> Developer.',
+                  'I\'m <span style="color: black">Moderator</span> Developer.',
                   'I\'m <span style="color: red">Backend</span> Developer.',
                   'I\'m <span style="color: green">Fullstack</span> Developer.',
                   'I\'m <span style="color: gray">Unity</span> Engineer.',
@@ -63,7 +63,7 @@ export default function Hero() {
                   bg: "blue.500",
                 }}
               >
-                Let's get in touch
+                👇Mari kita Menghubungi👇
               </Button>
             </Stack>
             <Stack direction={"row"} spacing={3}>
@@ -104,13 +104,13 @@ export default function Hero() {
 
 const SOCIAL_MEDIA = [
   {
-    icon: BsGithub,
-    href: "https://www.github.com/TrevorX",
+    icon: BsTelegram,
+    href: "https://www.com",
     delay: "1300",
   },
   {
     icon: BsInstagram,
-    href: "https://www.instagram.com/arfit_newbie/",
+    href: "https://www.instagram.com/jo27s_",
     delay: "1400",
   },
   {
