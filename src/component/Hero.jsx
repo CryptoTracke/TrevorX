@@ -25,15 +25,15 @@ export default function Hero() {
           <Stack spacing={4} w={"full"} maxW={{ base: "xl", lg: "full" }} px={{ base: "5" }}>
             <Heading fontSize={{ base: "3xl", sm: "4xl", md: "5xl" }}>
               <Text as={"span"} position={"relative"} data-aos="fade-down" data-aos-delay={"600"}>
-                Hello There 👋
+                Ketapang Cyber team 👋
               </Text>
               <br />
-              <Text color={"blue.400"} as={"span"} data-aos="fade-down" data-aos-delay={"800"}>
+              <Text color={"blue.400"} as={"span"} data-aos="fade-down" data-aos-delay={"200"}>
                 I'm <span style={{ color: "tomato" }}>Mr.</span> VxDx1-xploit 
               </Text>{" "}
               <br />
               <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"800"}>
-                 <span style={{ color: "tomato" }}>Mr.Venom</span>
+                 <span style={{ color: "black" }}>Mr.Venom</span>
               </Text>
               <br />
               <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"800"}>
