@@ -29,8 +29,12 @@ export default function Hero() {
               </Text>
               <br />
               <Text color={"blue.400"} as={"span"} data-aos="fade-down" data-aos-delay={"800"}>
-                I'm <span style={{ color: "tomato" }}>Trevor</span> -X403</span>Mr.Venom 
+                I'm <span style={{ color: "tomato" }}>Trevor</span> -X403 
               </Text>{" "}
+              <br />
+              <Text color={"blue.400"} as={"span"} data-aos="fade-down" data-aos-delay={"800"}>
+                I'm <span style={{ color: "tomato" }}>Mr.</span> Venom 
+              </Text>
             </Heading>
             <Text fontSize={"xl"} color={"gray.700"} data-aos="zoom-in" data-aos-delay={"1000"}>
               <TypedJS
