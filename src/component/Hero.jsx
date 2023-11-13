@@ -33,7 +33,7 @@ export default function Hero() {
               </Text>{" "}
               <br />
               <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"800"}>
-                <\> <span style={{ color: "tomato" }}>Mr.Venom</span>
+                Co Leader <span style={{ color: "tomato" }}>Mr.Venom</span>
               </Text>
               <br />
               <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"800"}>
