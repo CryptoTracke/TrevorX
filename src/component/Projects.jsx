@@ -16,7 +16,7 @@ const Projects = () => {
         <Flex justify={"center"} align={"center"} gap={2} maxW={"8xl"}>
           <Icon fontSize={{ base: "4xl", md: "5xl" }} as={BsClipboardCheckFill} color={COLOR.MAIN_COLOR} data-aos="fade-right" data-aos-delay="70" />
           <Text className="subhead" fontSize={{ base: "3xl", md: "4xl", lg: "5xl" }} data-aos="fade-left" data-aos-offset="50" data-aos-delay="90">
-            Featured Projects
+           Benefits & Featured Projects
           </Text>
         </Flex>
         <Stack gap={{ base: "20", lg: "32" }} wrap={"wrap"} w={"full"} mx={"auto"} direction={"row"} pt={"14"} pb={{ base: "20", lg: "60" }}>
@@ -95,7 +95,7 @@ const PROJECTS = [
     image: PortfolioQuran,
     alt: "Portfolio quran image",
     title: "Produk Yang Di Sediakan",
-    desc: "This is my web application that utilizes a public Quran API to provide easy and fast access to the holy verses of the Quran. In this project, I have designed a minimalist and elegant interface, with a focus on a simple yet powerful user experience.\nFurthermore, this project adopts a responsive design approach, allowing for optimal viewing on various devices, ranging from desktop computers to mobile devices. Thus, users can easily access this application anywhere and anytime, both through web-based and mobile devices.",
+    desc: "BELAJAR ADALAH BELAJAR, BUKAN MEMBODOHI MASYARAKAT. YANG KITA INGINKAN ADALAH BUKTI NYATA, BUKAN SEKEDAR TEORI KOSONG.",
     techStack: "PHP, CodeIgniter4, Tailwind",
     link: "https://blogfromlammertomastah.blogspot.com/",
     delay: 200,
