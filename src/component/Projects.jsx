@@ -47,7 +47,7 @@ const Projects = () => {
                   {val.desc}
                 </Text>
                 <Text data-aos={"zoom-in"} data-aos-delay={"400"} fontSize={"2xl"} color={"gray.600"} fontWeight={600}>
-                  Tech Stack
+                  Ketapang Cyber 
                 </Text>
                 <Text data-aos={"zoom-in"} data-aos-delay={"500"} fontFamily={"Consolas"}>
                   {val.techStack}
@@ -74,7 +74,7 @@ const Projects = () => {
                     data-aos={"zoom-in"}
                     data-aos-delay={"600"}
                   >
-                    Visit
+                    Info Lebih Lanjut
                     <ExternalLinkIcon mx="2px" />
                   </Button>
                 </Stack>
