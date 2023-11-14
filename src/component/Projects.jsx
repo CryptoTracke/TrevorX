@@ -33,7 +33,7 @@ const Projects = () => {
                 transform={`rotateZ(${val.key % 2 === 0 ? "8deg" : "-8deg"})`}
                 _hover={{
                   filter: `grayscale(0%)`,
-                  transform: `rotateZ(${val.key % 2 === 0 ? "3deg" : "-3deg"}) scale(110%)`,
+                  transform: `rotateZ(${val.key % 3 === 0 ? "0deg" :"-3deg"}) scale(110%)`,
                 }}
                 my={"auto"}
               >
@@ -94,7 +94,7 @@ const PROJECTS = [
     key: 1,
     image: PortfolioQuran,
     alt: "Portfolio quran image",
-    title: "Quran Verse Online",
+    title: "Produk Yang Di Sediakan",
     desc: "This is my web application that utilizes a public Quran API to provide easy and fast access to the holy verses of the Quran. In this project, I have designed a minimalist and elegant interface, with a focus on a simple yet powerful user experience.\nFurthermore, this project adopts a responsive design approach, allowing for optimal viewing on various devices, ranging from desktop computers to mobile devices. Thus, users can easily access this application anywhere and anytime, both through web-based and mobile devices.",
     techStack: "PHP, CodeIgniter4, Tailwind",
     link: "https://blogfromlammertomastah.blogspot.com/",
