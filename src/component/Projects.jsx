@@ -94,7 +94,7 @@ const PROJECTS = [
     key: 1,
     image: PortfolioQuran,
     alt: "Portfolio quran image",
-    title: "Produk Yang Di Sediakan",
+    title: "Ketapang GreyHat Agen Terpercaya",
     desc: "BELAJAR ADALAH BELAJAR, BUKAN MEMBODOHI MASYARAKAT. YANG KITA INGINKAN ADALAH BUKTI NYATA, BUKAN SEKEDAR TEORI KOSONG.",
     techStack: "PHP, CodeIgniter4, Tailwind",
     link: "https://blogfromlammertomastah.blogspot.com/",
