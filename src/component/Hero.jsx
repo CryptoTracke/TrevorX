@@ -24,23 +24,23 @@ export default function Hero() {
         <Flex flex={2} align={"center"} justify={"center"} alignItems={"center"}>
           <Stack spacing={4} w={"full"} maxW={{ base: "xl", lg: "full" }} px={{ base: "5" }}>
             <Heading fontSize={{ base: "3xl", sm: "4xl", md: "5xl" }}>
-              <Text color={"blue.200"} as={"span"} position={"relative"} data-aos="fade-down" data-aos-delay={"890"}>
+              <Text color={"color.350"} as={"span"} position={"relative"} data-aos="fade-down" data-aos-delay={"890"}>
                 Ketapang Greyhat Team 
               </Text>
               <br />
-              <Text color={"black.200"} as={"span"} data-aos="fade-down" data-aos-delay={"100"}>
+              <Text color={"black.50"} as={"span"} data-aos="fade-down" data-aos-delay={"100"}>
                  <span style={{ color: "black" }}>Mr.</span> VxDx1-xploit 
               </Text>{" "}
               <br />
-              <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"100"}>
+              <Text color={"tomato.50"} as={"span"} data-aos="fade-down" data-aos-delay={"100"}>
                  <span style={{ color: "black" }}>Mr.Venom</span>
               </Text>
               <br />
-              <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"100"}>
+              <Text color={"tomato.50"} as={"span"} data-aos="fade-down" data-aos-delay={"100"}>
                  <span style={{ color: "black" }}>./Knxploit</span>  
               </Text>
               <br />
-              <Text color={"tomato.400"} as={"span"} data-aos="fade-down" data-aos-delay={"100"}>
+              <Text color={"tomato.50"} as={"span"} data-aos="fade-down" data-aos-delay={"100"}>
                  <span style={{ color: "black" }}>Trevor-X 403</span>  
               </Text>
             </Heading>
