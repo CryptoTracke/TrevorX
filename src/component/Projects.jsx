@@ -74,7 +74,7 @@ const Projects = () => {
                     data-aos={"zoom-in"}
                     data-aos-delay={"600"}
                   >
-                    Info Lebih Lanjut
+                    Klick!!!
                     <ExternalLinkIcon mx="2px" />
                   </Button>
                 </Stack>
