@@ -16,7 +16,7 @@ const Projects = () => {
         <Flex justify={"center"} align={"center"} gap={2} maxW={"8xl"}>
           <Icon fontSize={{ base: "4xl", md: "5xl" }} as={BsClipboardCheckFill} color={COLOR.MAIN_COLOR} data-aos="fade-right" data-aos-delay="70" />
           <Text className="subhead" fontSize={{ base: "3xl", md: "4xl", lg: "5xl" }} data-aos="fade-left" data-aos-offset="50" data-aos-delay="90">
-           Benefits & Featured Projects
+           Benefits Terbuka Untuk Umum 
           </Text>
         </Flex>
         <Stack gap={{ base: "20", lg: "32" }} wrap={"wrap"} w={"full"} mx={"auto"} direction={"row"} pt={"14"} pb={{ base: "20", lg: "60" }}>
@@ -74,8 +74,8 @@ const Projects = () => {
                     data-aos={"zoom-in"}
                     data-aos-delay={"600"}
                   >
-                    Klick!!!
-                    <ExternalLinkIcon mx="2px" />
+                    lebih lanjut
+                    <ExternalLinkIcon mx="100px" />
                   </Button>
                 </Stack>
               </Stack>
@@ -94,7 +94,7 @@ const PROJECTS = [
     key: 1,
     image: PortfolioQuran,
     alt: "Portfolio quran image",
-    title: "Ketapang GreyHat Agen Terpercaya",
+    title: "Agen Terpercaya",
     desc: "BELAJAR ADALAH BELAJAR, BUKAN MEMBODOHI MASYARAKAT. YANG KITA INGINKAN ADALAH BUKTI NYATA, BUKAN SEKEDAR TEORI KOSONG.",
     techStack: "PHP, CodeIgniter4, Tailwind",
     link: "https://blogfromlammertomastah.blogspot.com/",
