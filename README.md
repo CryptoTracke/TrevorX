@@ -1,3 +1,3 @@
-# Selamat datang di website personal portfolio ku
+# Selamat datang di website personal bisnis ku
 
 Terimakasih telah berkunjung.
