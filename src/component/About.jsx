@@ -59,9 +59,7 @@ export default function About() {
               Trevor <span style={{ color: "#4299e1" }}>-X</span>
             </Heading>
             <Heading fontSize={"xl"} fontWeight={350} textAlign={{ base: "justify", lg: "justify" }} data-aos="fade-left" data-aos-offset="50" data-aos-delay="500">
-              My name is Aris Rahmadani, I currently reside in West Java, Indonesia. I am 16 years old student at SMK negeri 1 Cilegon. My passion lies in web development, specifically in both front-end and back-end development, as
-              well as game development. I am highly motivated to learn and expand my skills in these fields, and I am always on the lookout for new and exciting projects to work on. In my free time, I enjoy experimenting with various coding
-              languages and frameworks. I am excited to continue pursuing my interests and developing my portfolio in the ever-growing field of web and game development.
+              KETAPANG GREY HAT adalah Bagian dari Ketapang Cyber Team. Disini tempatnya sharing Ilmu Informatika Seperti Programming, Hacking, Pentester, dll. dan juga disini Menggunakan Sharing Materi Menggunakan Metode Praktik Jadi Lebih Mudah di Mengerti oleh Orang Lain. Selain itu Kami Juuga Menyediakan Product Hacking atau Penetration Testing agar Kalian Juga Bisa Mencobanya secara Langsung Jangan Ragu" Bertanya.
             </Heading>
             <Box>
               {INFO.map((item) => (
@@ -93,7 +91,7 @@ export default function About() {
                   bg: "#D090AB",
                 }}
               >
-                lihat apa yang saya sediakan 
+                lihat apa Yang Saya Sediakan 
                 <Icon as={BsArrowDownCircle} fontSize={"xl"} marginLeft={"2"} />
               </Button>
               <Button
