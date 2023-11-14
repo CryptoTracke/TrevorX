@@ -24,7 +24,7 @@ export default function Hero() {
         <Flex flex={2} align={"center"} justify={"center"} alignItems={"center"}>
           <Stack spacing={4} w={"full"} maxW={{ base: "xl", lg: "full" }} px={{ base: "5" }}>
             <Heading fontSize={{ base: "3xl", sm: "4xl", md: "5xl" }}>
-              <Text color={"blue.350"} as={"span"} position={"relative"} data-aos="fade-down" data-aos-delay={"890"}>
+              <Text color={"blue.200"} as={"span"} position={"relative"} data-aos="fade-down" data-aos-delay={"890"}>
                 Ketapang Greyhat Team 
               </Text>
               <br />
@@ -42,6 +42,10 @@ export default function Hero() {
               <br />
               <Text color={"tomato.50"} as={"span"} data-aos="fade-down" data-aos-delay={"50"}>
                  <span style={{ color: "black" }}>Trevor-X 403</span>  
+              </Text>
+              <br />
+              <Text color={"tomato.50"} as={"span"} data-aos="fade-down" data-aos-delay={"50"}>
+                 <span style={{ color: "black" }}>Hazboy</span>  
               </Text>
             </Heading>
             <Text fontSize={"xl"} color={"gray.700"} data-aos="zoom-in" data-aos-delay={"1000"}>
