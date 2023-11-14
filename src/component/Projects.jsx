@@ -75,7 +75,7 @@ const Projects = () => {
                     data-aos-delay={"600"}
                   >
                     lebih lanjut
-                    <ExternalLinkIcon mx="100px" />
+                    <ExternalLinkIcon mx="2px" />
                   </Button>
                 </Stack>
               </Stack>
