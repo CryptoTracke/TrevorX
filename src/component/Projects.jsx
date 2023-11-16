@@ -16,7 +16,14 @@ const Projects = () => {
         <Flex justify={"center"} align={"center"} gap={2} maxW={"8xl"}>
           <Icon fontSize={{ base: "4xl", md: "5xl" }} as={BsClipboardCheckFill} color={COLOR.MAIN_COLOR} data-aos="fade-right" data-aos-delay="70" />
           <Text className="subhead" fontSize={{ base: "3xl", md: "4xl", lg: "5xl" }} data-aos="fade-left" data-aos-offset="50" data-aos-delay="90">
-           Terbuka Untuk Umum 
+           - Attacker Malware/Trojan:70K
+- SQL/SQLI: 80K(sampai paham) Req 3× methode
+- Deface: 60K(Sampai paham) Req 3× Methode
+- Xss: 50K(Sampai Paham)
+- Coding(Req 2× Methode): 250K(Sampai Paham)
+- Osint Framework/ Nmap/Leaked Database Website: 300K(sampai paham, Free Tools)
+- All Virus WA: 35K(Sampai Down!)
+- DDOS ATTACK(3 SITE): 165K s/d Down!! (Spam Port 9999) 
           </Text>
         </Flex>
         <Stack gap={{ base: "20", lg: "32" }} wrap={"wrap"} w={"full"} mx={"auto"} direction={"row"} pt={"14"} pb={{ base: "20", lg: "60" }}>
