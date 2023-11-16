@@ -122,7 +122,7 @@ const PROJECTS = [
     key: 4,
     image: PortfolioPersonal,
     alt: "Trevor-X Personal Website",
-    title: "Personal Web Profile",
+    title: "Personal Web Trevor-X",
     desc: "Built with React JS technology, this project offers a seamless and responsive user experience. Every interaction with the page provides fast and smooth feedback, ensuring intuitive navigation and a delightful user experience. The choice of using Chakra UI as the styled component provides flexibility in designing the interface with ease. With this framework, you can quickly create beautiful and consistent components, simplifying development and speeding up the workflow.",
     techStack: "React, Chakra UI, React Hooks",
     link: "https://recovery.cryptotracke.repl.co",
